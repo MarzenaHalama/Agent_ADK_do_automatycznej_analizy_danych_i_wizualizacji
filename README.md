@@ -7,6 +7,9 @@ Agent integruje pełen pipeline data science: automatyczne czyszczenie danych, t
 
 Kod analityczny jest zorganizowany modułowo w pakiecie `src/` i pokryty testami jednostkowymi (`pytest`).
 
+<img width="921" height="505" alt="image" src="https://github.com/user-attachments/assets/0215b40b-f212-41ff-88ac-d003c44d9779" />
+
+
 ---
 
 ## Author
@@ -114,5 +117,27 @@ Od sposobu, w jaki formułujesz kontekst, polecenia i ograniczenia, zależy jako
 Nawet przy tym samym modelu (np. Google GenAI lub OpenAI GPT) różnice między wynikami mogą być ogromne — wyłącznie z powodu innej instrukcji.
 
 W projektach analitycznych dobrze zdefiniowany kontekst i rola agenta (np. “ekspert ds. wizualizacji danych” lub “model interpretujący wyniki regresji”) mają kluczowe znaczenie dla skuteczności całego systemu.
+
+## Repozytorium prezentuje system oparty na agencie LLM, umożliwiający automatyczną analizę i wizualizację danych biznesowych. Projekt został opracowany w ramach prezentacji LLMy w e-Commerce i analizie danych.
+
+
+<img width="917" height="511" alt="image" src="https://github.com/user-attachments/assets/3b21e366-47a7-4262-a9b4-1b68de5de2c4" />
+<img width="916" height="504" alt="image" src="https://github.com/user-attachments/assets/f37d1dfc-575a-4f58-92c4-820196fb4181" />
+<img width="920" height="510" alt="image" src="https://github.com/user-attachments/assets/60fc5797-cc44-4de2-b15f-c5e2bd769a94" />
+<img width="922" height="512" alt="image" src="https://github.com/user-attachments/assets/93ba439c-fb74-43dd-9481-d8aa949fe41d" />
+<img width="916" height="504" alt="image" src="https://github.com/user-attachments/assets/b583554c-ded4-4f05-9047-caac8aa5bb01" />
+<img width="917" height="511" alt="image" src="https://github.com/user-attachments/assets/3d2823e1-c2e3-4b64-bbf3-e6220a7fc035" />
+<img width="919" height="508" alt="image" src="https://github.com/user-attachments/assets/ec734514-25fd-4797-98ec-ede14d339fb7" />
+<img width="924" height="516" alt="image" src="https://github.com/user-attachments/assets/4e8ec075-42c3-413d-b7b6-a1ea3af282b1" />
+<img width="920" height="515" alt="image" src="https://github.com/user-attachments/assets/70b5b57f-ab42-4d44-adf0-0ff2b861a14f" />
+<img width="920" height="514" alt="image" src="https://github.com/user-attachments/assets/4510259e-2c9d-4490-aeea-fca31f002ed7" />
+<img width="920" height="503" alt="image" src="https://github.com/user-attachments/assets/016a2c60-fc87-477d-8a74-6d386ca28bc4" />
+
+
+
+
+
+
+
 
 
